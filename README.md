@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Aps.Net Core project<br>🌱 I'm currently learning Java, C#<br>💬 Ask me about Java <br>⚡ Fun fact : I ❤️ 🐈s , games and trekking
+🔭 I'm currently working on Java Spring Boot project<br>🌱 I'm currently learning Java, C#<br>💬 Ask me about Java <br>⚡ Fun fact : I ❤️ 🐈s , games and trekking
 
 
 ## 🌐 Socials:
